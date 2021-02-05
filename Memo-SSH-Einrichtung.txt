@@ -1,0 +1,6 @@
+- Ausführen:
+ssh-keygen
+- öffentlichen Schlüssel unter ~/.ssh/id-rsa.pub
+auf Github hochladen
+- git clone mit ssh
+
